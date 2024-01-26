@@ -1,0 +1,112 @@
+{
+    "juegosXbox": [
+      {
+        "nombre": "Far Cry 6",
+        "subNombre":"new dawn",
+        "sinopsis" : " En Far Cry New Dawn, los jugadores se enfrentan a un entorno colorido y peligroso, lleno de bandas hostiles, mutantes y desafíos para reconstruir la sociedad. La historia sigue a los supervivientes mientras luchan por los recursos y tratan de superar las amenazas que se presentan en este nuevo y caótico mundo.",
+        "imagen": "images/titanfall.jpg",
+        "precio": 220
+      },
+      {
+        "nombre": "Forza Horizon 5",
+        "imagen": "images/titanfall.jpg",
+        "precio": 49.99
+      },
+      {
+        "nombre": "Gears of War 5",
+        "imagen": "images/titanfall.jpg",
+        "precio": 39.99
+      },
+      {
+        "nombre": "FIFA 22",
+        "imagen": "images/titanfall.jpg",
+        "precio": 54.99
+      },
+      {
+        "nombre": "Assassin's Creed Valhalla",
+        "imagen": "images/titanfall.jpg",
+        "precio": 44.99
+      },
+      {
+        "nombre": "Cyberpunk 2077",
+        "imagen": "images/titanfall.jpg",
+        "precio": 59.99
+      },
+      {
+        "nombre": "Minecraft",
+        "imagen": "images/titanfall.jpg",
+        "precio": 29.99
+      },
+      {
+        "nombre": "Red Dead Redemption 2",
+        "imagen": "img/titanfall.jpg",
+        "precio": 49.99
+      },
+      {
+        "nombre": "The Witcher 3: Wild Hunt",
+        "imagen": "img/titanfall.jpg",
+        "precio": 39.99
+      },
+      {
+        "nombre": "Call of Duty: Warzone",
+        "imagen": "img/titanfall.jpg",
+        "precio": 0.00
+      },
+      {
+        "nombre": "Far Cry 6",
+        "imagen": "img/titanfall.jpg",
+        "precio": 49.99
+      },
+      {
+        "nombre": "Destiny 2",
+        "imagen": "img/titanfall.jpg",
+        "precio": 29.99
+      },
+      {
+        "nombre": "Marvel's Avengers",
+        "imagen": "img/titanfall.jpg",
+        "precio": 39.99
+      },
+      {
+        "nombre": "Battlefield V",
+        "imagen": "img/titanfall.jpg",
+        "precio": 34.99
+      },
+      {
+        "nombre": "NBA 2K22",
+        "imagen": "img/titanfall.jpg",
+        "precio": 59.99
+      },
+      {
+        "nombre": "Tom Clancy's Rainbow Six Siege",
+        "imagen": "img/titanfall.jpg",
+        "precio": 29.99
+      },
+      {
+        "nombre": "Watch Dogs: Legion",
+        "imagen": "img/titanfall.jpg",
+        "precio": 44.99
+      },
+      {
+        "nombre": "Assassin's Creed Odyssey",
+        "imagen": "img/titanfall.jpg",
+        "precio": 39.99
+      },
+      {
+        "nombre": "Resident Evil Village",
+        "imagen": "img/titanfall.jpg",
+        "precio": 54.99
+      },
+      {
+        "nombre": "Star Wars Jedi: Fallen Order",
+        "imagen": "img/titanfall.jpg",
+        "precio": 49.99
+      },
+      {
+        "nombre": "Doom Eternal",
+        "imagen": "img/titanfall.jpg",
+        "precio": 59.99
+      }
+    ]
+  }
+  
